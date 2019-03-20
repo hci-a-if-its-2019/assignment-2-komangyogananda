@@ -1,3 +1,19 @@
+# Outline
+- [Part A: Sketches](#Part-a:-sketches)  
+    - [Scan/Photo of Sketches](#1.-Scan/Photo-of-sketches)
+        - [First Design](#First-Design)
+        - [Second Design](#Second-Design)
+        - [Third Design](#Third-Design)
+    - [Version Differences](#2.-Version-Differences)
+        - [First Design](#First-Design-1)
+        - [Second Design](#Second-Design-1)
+        - [Third Design](#Third-Design-1)
+    - [Design Rationale](#4.-Design-Rationale)
+- [Part B: Assumptions](#Part-B:-Assumptions) 
+    - [Hardware](#1.-Hardware)
+    - [Users](#2.-Users)
+- [Part C: Prototype](#Part-C:-Prototypes)
+
 # Sketching and Prototyping
 Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
 
@@ -7,47 +23,46 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
+#### First Design
+![Scan/Photo of Sketches](src/Desain1.jpg)
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+#### Second Design
+![Scan/Photo of Sketches](src/Desain2.jpg)
+
+#### Third Design
+![Scan/Photo of Sketches](src/Desain3.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+
+#### First Design
+The first design is a little bit similiar to the original. Instead using only icon on the settings menu and it will become ambiguos, My first design use an icon with little information such as title of the settings and current settings applied on the right side of the icon. It will make users more understand and not guessing the settings menu. The settings bar are scrollable and clickable.
+
+#### Second Design
+The second design is a little bit similar with the first design but with different position on the screen. The settings bar on this design is relocated to the left side of the screen. Each settings menu on the settings bar also contains icon and little information about the setting such as the title and the current settings applied.
+
+#### Third Design
+The third design is relocated to the top of the screen. The settings menu could be activated by simply swipping down in the top of the screen. The settings menu contains icon and title of the settings menu. Each of the settings menu are clickable and the setting bar are scrollable horizontally. 
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+I select my second design for parts B and C because it is easier to access and it contains lot of information about the settings itself such as the current settings applied and the icon also the title of the settings.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+The users tend to guessing the settings based on the icon they know. It is not 100% correct and sometimes takes 2 or 3 attempt to get to the correct settings menu. The users also complained about small button and plain template.
 
 ## Part B: Assumptions
+Because I reviewed about android application so the requirements are
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+1. Android Smartphone.
+2. Screen size between 4" and 6".
+3. Touch Screen.
+4. Running Android marshmallow or higher.
+5. 1 GB of RAM
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+1. Users should be familiar with smartphone.
+2. Users able to operate smartphone with touch screen.
+3. Age range between 10 - 70.
+4. Have experience watching videos on smartphone.
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
