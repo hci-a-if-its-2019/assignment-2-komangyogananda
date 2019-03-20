@@ -56,7 +56,7 @@ Because I reviewed about android application so the requirements are
 2. Screen size between 4" and 6".
 3. Touch Screen.
 4. Running Android marshmallow or higher.
-5. 1 GB of RAM
+5. 1 GB of RAM or higher.
 
 ### 2. Users
 1. Users should be familiar with smartphone.
