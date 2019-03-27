@@ -64,5 +64,11 @@ Because I reviewed about android application so the requirements are
 3. Age range between 10 - 70.
 4. Have experience watching videos on smartphone.
 
-## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+## Part C: Prototypes  
+### Freehand  
+![Freehand](src/freehand.png)
+More details check this link: https://projects.invisionapp.com/freehand/document/oLOXbBb21
+
+### Prototype  
+![Freehand](src/prototype.gif)  
+More details check this link: https://invis.io/UTR8HVE4W2P
