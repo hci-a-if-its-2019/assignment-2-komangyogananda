@@ -66,7 +66,7 @@ Because I reviewed about android application so the requirements are
 
 ## Part C: Prototypes  
 ### Freehand  
-![Freehand](src/freehand.png)
+![Freehand](src/freehand.PNG)
 More details check this link: https://projects.invisionapp.com/freehand/document/oLOXbBb21
 
 ### Prototype  
