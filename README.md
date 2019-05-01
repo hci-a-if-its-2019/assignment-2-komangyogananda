@@ -74,3 +74,5 @@ More details check this link: https://projects.invisionapp.com/freehand/document
 More details check this link: https://invis.io/UTR8HVE4W2P  
 ### High Fidelity Version  
 Check in this [link](https://xd.adobe.com/view/d0d3f77e-2250-409a-7a18-3d6fe9832a91-a6e2/)
+
+[Video for prototype](https://youtu.be/IW_tQBkwvVs)
